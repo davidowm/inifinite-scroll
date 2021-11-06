@@ -1,0 +1,23 @@
+{
+  "name": "infinite-scroll",
+  "version": "1.0.0",
+  "description": "infinite scroll project",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidowm/inifinite-scroll.git"
+  },
+  "author": "marci davidow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidowm/inifinite-scroll/issues"
+  },
+  "homepage": "https://github.com/davidowm/inifinite-scroll#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
